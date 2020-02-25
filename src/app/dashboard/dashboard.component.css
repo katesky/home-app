@@ -34,13 +34,13 @@ h4 {
   color: #eee;
   max-height: 120px;
   min-width: 120px;
-  background-color: #3f525c;
+  background-color: #553f5c;
   border-radius: 2px;
 }
 .module:hover {
-  background-color: #EEE;
+  background-color: #876F8E;
   cursor: pointer;
-  color: #607d8b;
+  color: #eee;
 }
 .grid-pad {
   padding: 10px 0;
